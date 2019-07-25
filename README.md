@@ -2,6 +2,7 @@
 pokemon quiz android app
 
 # Screenshots
-![screenshot](screenshots/s1.jpeg "project"|height=30)
+<img src="https://github.com/manish471/Pokemon_Android-App/screenshots/s1.jpeg" height="24" width="48">
+![screenshot](screenshots/s1.jpeg "project")
 ![screenshot](screenshots/s2.jpeg "project")
 ![screenshot](screenshots/s3.jpeg "project")
